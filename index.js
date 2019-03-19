@@ -1,5 +1,3 @@
-s (26 sloc)  683 Bytes
-
 class BoardMember{
     constructor(name, homeState, training){
         this.name = name; this.homeState = homeState;
